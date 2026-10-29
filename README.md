@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Sourcetree Free Installer** — Sourcetree is a free Git and Mercurial client from Atlassian for Windows and macOS. Works without internet access, no account required. Full offline installation.
+**💻 Sourcetree Free Installer** — Sourcetree is a free Git client for Windows and macOS from Atlassian. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Sourcetree
 
-Sourcetree is a free Git and Mercurial client from Atlassian for Windows and macOS. It provides a visual commit history, branch management, interactive rebase, and integration with Bitbucket, GitHub, and GitLab for pull request management.
+Sourcetree is a free Git client for Windows and macOS from Atlassian. Features include a visual commit history, interactive rebase, Gitflow workflow support, and integration with Bitbucket, GitHub, and GitLab. Sourcetree is particularly well-suited for teams using Bitbucket and Jira, as it integrates with the Atlassian ecosystem including ticket tracking within the Git workflow.
 
 ---
 
 ## ❌ Problem: Sourcetree is hard to access
 
-- **Atlassian Account Required** — Must create an Atlassian account to download and use
-- **Windows and macOS Only** — No Linux version available
-- **Performance Issues** — Can be slow on very large repositories with long histories
-- **Heavy Application** — Heavier resource usage than lightweight clients like Fork
+- **Atlassian Account Required** — Account creation required even for local Git repositories
+- **Performance** — Can be slow on large repositories compared to lighter clients
+- **No Linux Version** — Windows and macOS only
+- **Electron Stability** — Occasional crashes and slowdowns reported in various versions
 
 ---
 
@@ -121,7 +121,7 @@ Sourcetree is a free Git and Mercurial client from Atlassian for Windows and mac
 
 ---
 
-**Sourcetree Free Installer** — Sourcetree is a free Git and Mercurial client from Atlassian for Windows and macOS. Install without internet connection today!
+**Sourcetree Free Installer** — Sourcetree is a free Git client for Windows and macOS from Atlassian. Install without internet connection today!
 
 <div align="center">
 
